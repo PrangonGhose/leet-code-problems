@@ -4,7 +4,7 @@
 
 #### **Language Used:** Python
 
-### Runtime: 13 ms 
+### Runtime: 13 ms **Beats: 98%**
 ### Memory: 13.5 MB
 
 Given two strings `needle` and `haystack`, return the index of the first occurrence of `needle` in `haystack`, or -1 if `needle` is not part of `haystack`.
