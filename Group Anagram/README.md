@@ -1,4 +1,4 @@
-## Group Anagram
+## Group Anagram Problem 
 
 #### **Difficulty level:** Medium
 
