@@ -4,8 +4,8 @@
 
 #### **Language Used:** Python
 
-### Runtime: 65 ms 
-### Memory: 13.3 MB
+### Runtime: 65 ms **Beats: 51.28%**
+### Memory: 13.3 MB **Beats: 71.28%**
 
 Determine if a `9 x 9` Sudoku board is valid. Only the filled cells need to be validated according to the following rules:
 
