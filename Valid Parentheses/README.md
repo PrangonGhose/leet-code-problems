@@ -4,8 +4,8 @@
 
 #### **Language Used:** Python
 
-### Runtime: 15 ms 
-### Memory: 13.4 MB
+### Runtime: 15 ms **Beats: 91.28%**
+### Memory: 13.4 MB **Beats: 51.28%**
 
 Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
