@@ -4,6 +4,10 @@
 
 #### **Language Used:** Python
 
+### Time needed: 24 ms
+
+### Memory needed: 14.3 MB
+
 Given an integer x, return true if x is a palindrome, and false otherwise.
 
 _Example 1:_
