@@ -4,7 +4,8 @@
 
 #### **Language Used:** Python
 
-### Runtime: 23 ms
+### Runtime: 17 ms **Beats: 61.24%**
+### Memory: 13.3 MB **Beats: 78.1%**
 
 Write a function to find the longest common prefix string amongst an array of strings.
 
