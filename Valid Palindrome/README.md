@@ -4,8 +4,8 @@
 
 #### **Language Used:** Python
 
-### Runtime: 27 ms 
-### Memory: 16.8 MB
+### Runtime: 27 ms **Beats: 91.28%**
+### Memory: 16.8 MB **Beats: 51.38%**
 
 A phrase is a **palindrome** if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
 
