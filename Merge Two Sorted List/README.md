@@ -4,8 +4,8 @@
 
 #### **Language Used:** Python
 
-### Runtime: 29 ms 
-### Memory: 13.4 MB
+### Runtime: 29 ms **Beats: 73.55%**
+### Memory: 13.4 MB **Beats: 89.76%**
 
 You are given the heads of two sorted linked lists `list1` and `list2`.
 
