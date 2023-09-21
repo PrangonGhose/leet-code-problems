@@ -4,6 +4,10 @@
 
 #### **Language Used:** Python
 
+### Runtime: 12 ms **Beats: 81.94%**
+
+### Memory usage: 14 MB **Beats: 64%**
+
 There is a function signFunc(x) that returns:
 
 - 1 if x is positive.
