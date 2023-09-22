@@ -4,9 +4,9 @@
 
 #### **Language Used:** Python
 
-### Runtime: 12 ms **Beats: 81.94%**
+### Runtime: 12.7 ms **Beats: 81.94%**
 
-### Memory usage: 14 MB **Beats: 64%**
+### Memory usage: 14.4 MB **Beats: 64%**
 
 There is a function signFunc(x) that returns:
 
