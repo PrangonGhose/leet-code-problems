@@ -4,7 +4,7 @@
 
 #### **Language Used:** Python
 
-### Runtime: 58 ms **Beats: 7.8%**
+### Runtime: 58 ms **Beats: 17.8%**
 ### Memory: 13.9 MB **Beats: 100%**
 
 Write an algorithm to determine if a number `n` is **happy**.
