@@ -4,8 +4,8 @@
 
 #### **Language Used:** Python
 
-### Runtime: 35 ms 
-### Memory: 14.1 MB
+### Runtime: 35 ms **Beats: 67.15%**
+### Memory: 14.1 MB **Beats: 96.27%**
 
 Given a sorted array of distinct integers and a `target` value, return the index if the `target` is found. If not, return the index where it would be if it were inserted in order.
 
