@@ -4,8 +4,8 @@
 
 #### **Language Used:** Python
 
-### Runtime: 11 ms 
-### Memory: 13.3 MB
+### Runtime: 11 ms **Beats: 70.8%**
+### Memory: 13.3 MB **Beats: 100%**
 
 You are given a large integer represented as an integer array `digits`, where each `digits[i]` is the `ith digit` of the integer. The `digits` are ordered from most significant to least significant in left-to-right order. The large integer does not contain any leading `'0's`.
 
