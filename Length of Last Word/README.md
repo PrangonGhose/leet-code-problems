@@ -4,8 +4,8 @@
 
 #### **Language Used:** Python
 
-### Runtime: 19 ms 
-### Memory: 13.9 MB
+### Runtime: 19 ms **Beats: 61.57%**
+### Memory: 13.9 MB **Beats: 86.47%**
 
 Given a string s consisting of words and spaces, return the length of the last word in the string.
 
