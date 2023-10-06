@@ -4,6 +4,9 @@
 
 #### **Language Used:** Python
 
+### Runtime: 41 ms **Beats: 12.25%**
+### Memory: 13.4 MB **Beats: 10%**
+
 Roman numerals are represented by seven different symbols: `I, V, X, L, C, D and M`.
 
 |Symbol |      Value |
