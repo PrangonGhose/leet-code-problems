@@ -4,8 +4,8 @@
 
 #### **Language Used:** Python
 
-### Runtime: 80 ms 
-### Memory: 17.2 MB
+### Runtime: 80 ms **Beats: 29.38%**
+### Memory: 17.2 MB **Beats: 75.69%**
 
 Given an array of strings `strs`, group the anagrams together. You can return the answer in any order.
 
