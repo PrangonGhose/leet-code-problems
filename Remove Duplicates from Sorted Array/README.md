@@ -4,8 +4,8 @@
 
 #### **Language Used:** Python
 
-### Runtime: 69 ms 
-### Memory: 44.7 MB
+### Runtime: 69 ms **Beats: 70.8%**
+### Memory: 44.7 MB **Beats: 51%**
 
 Given an integer array `nums` sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same. Then return the number of unique elements in `nums`.
 
