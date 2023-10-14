@@ -5,7 +5,7 @@
 #### **Language Used:** Python
 
 ### Runtime: 190 ms **Beats: 14.18%**
-### Memory: 23.8 MB **Beats: 9.21%**
+### Memory: 23.8 MB **Beats: 79.21%**
 
 Given an integer array `nums`, return an array `answer` such that `answer[i]` is equal to the product of all the elements of `nums` except `nums[i]`.
 
