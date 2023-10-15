@@ -1,6 +1,6 @@
 ## FInd the Nearest Point that has the Same X or Y Coordinates
 
-#### **Difficulty level:** Easy
+#### **Difficulty level:** Medium
 
 #### **Language Used:** Python
 
