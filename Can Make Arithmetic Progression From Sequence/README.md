@@ -4,7 +4,7 @@
 
 #### **Language Used:** Python
 
-### Runtime: 87 ms **Beats: 5.13%**
+### Runtime: 37 ms **Beats: 85.13%**
 ### Memory: 14 MB **Beats: 100%**
 
 A `sequence` of numbers is called an `arithmetic progression` if the difference between any two consecutive elements is the same.
