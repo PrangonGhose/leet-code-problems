@@ -4,8 +4,8 @@
 
 #### **Language Used:** Python
 
-### Runtime: 29 ms **Beats: 73.55%**
-### Memory: 13.4 MB **Beats: 89.76%**
+### Runtime: 53 ms **Beats: 87.58%**
+### Memory: 16.5 MB **Beats: 26.47%**
 
 Given a string `s`, find the length of the longest substring without repeating characters.
 
