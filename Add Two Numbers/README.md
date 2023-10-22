@@ -4,8 +4,8 @@
 
 #### **Language Used:** Python
 
-### Runtime: 27ms **Beats: **
-### Memory: 13.4 MB **Beats: **
+### Runtime: 60 ms **Beats: 80.94%**
+### Memory: 16.3 MB **Beats: 74.79%**
 
 You are given two `non-empty linked lists` representing two `non-negative integers`. The digits are stored in reverse order, and each of their `nodes` contains a single digit. Add the two numbers and `return` the sum as a linked list.
 
