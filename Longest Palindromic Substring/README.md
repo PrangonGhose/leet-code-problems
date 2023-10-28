@@ -5,7 +5,7 @@
 #### **Language Used:** Python
 
 ### Runtime: 480 ms **Beats: 63.69%**
-### Memory: 16.22 Mb **Beats: 78.90%**
+### Memory: 16.22 MB **Beats: 78.90%**
 
 Given a string `s`, return the longest palindromic substring in `s`.
 
