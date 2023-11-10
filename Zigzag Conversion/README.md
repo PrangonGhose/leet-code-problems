@@ -4,8 +4,8 @@
 
 #### **Language Used:** Python
 
-### Runtime: ms **Beats: **
-### Memory: MB **Beats: **
+### Runtime: 2000 ms **Beats: 5%**
+### Memory: 16.6 MB **Beats: 11.1%**
 
 The string `"PAYPALISHIRING"` is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fixed font for better legibility)
 
