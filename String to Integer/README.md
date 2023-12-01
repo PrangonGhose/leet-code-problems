@@ -4,8 +4,8 @@
 
 #### **Language Used:** Python
 
-### Runtime:  **Beats: **
-### Memory:  **Beats: **
+### Runtime: 46 ms **Beats: 31.12% **
+### Memory: 16.08 MB **Beats: 97.30% **
 
 Implement the `myAtoi(string s)` function, which converts a string to a 32-bit signed integer (similar to C/C++'s atoi function).
 
