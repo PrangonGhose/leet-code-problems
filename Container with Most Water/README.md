@@ -4,8 +4,8 @@
 
 #### **Language Used:** Python
 
-### Runtime:  **Beats:**
-### Memory:  **Beats:**
+### Runtime: 14 ms **Beats: 40%**
+### Memory: 20 MB **Beats: 56.6%**
 
 You are given an integer array height of length `n`. There are `n` vertical lines drawn such that the two endpoints of the ith line are `(i, 0)` and `(i, height[i])`.
 
