@@ -3,25 +3,22 @@ class Solution:
         if len(height) == 0:
             return 0
         
-        first_bar = height[0]
-        second_bar = height[-1]
-        area = min(first_bar, second_bar) * (len(height) - 1)
-        gap = abs(0 - (len(height) - 1))
+        first_bar = 0
+        second_bar = len(height) - 1
+        area = min(height[first_bar], height[second_bar]) * (len(height) - 1)
 
-
-        for i in range(0,len(height)):
-            curr = height[i] 
-            area1 = min(first_bar, curr) * abs(height.index(first_bar) - i)
-            area2 = min(second_bar, curr) * abs(height.index(second_bar) - i)
+        for i in range(1,len(height)):
+            area1 = min(height[first_bar], height[i]) * abs(first_bar - i)
+            area2 = min(height[second_bar], height[i]) * abs(second_bar - i)
             if area1 > area:
-                second_bar = curr
+                second_bar = i
                 area = area1
             elif area2 > area:
-                first_bar = curr
+                first_bar = i
                 area = area2
-            elif curr > first_bar:
-                first_bar = curr
-            elif curr > second_bar:
-                second_bar = curr
+            elif area1 < area and area2 < area and height[i] > height[first_bar]:
+                first_bar = i
+            elif area2 < area and area1 < area and height[i] > height[second_bar]:
+                second_bar = i
 
         return area
