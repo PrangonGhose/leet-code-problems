@@ -4,8 +4,8 @@
 
 #### **Language Used:** Python
 
-### Runtime:  **Beats: **
-### Memory:  **Beats: **
+### Runtime: 115 ms **Beats: 94.29%**
+### Memory: 17.39 MB **Beats: 12.80%**
 
 Given an integer array `nums` of length `n` and an integer `target`, find three integers in nums such that the sum is closest to `target`.
 
