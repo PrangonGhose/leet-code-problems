@@ -1,8 +1,8 @@
 ## Letter Combinations of a Phone Number
 
-#### **Difficulty level:** Medium
+### **Difficulty level:** Medium
 
-#### **Language Used:** Python
+### **Language Used:** Python
 
 ### Runtime:  **Beats: **
 ### Memory: **Beats: **
